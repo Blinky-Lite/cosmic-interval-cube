@@ -1,1 +1,1 @@
-# blinky-lite-basic-devc
+# blinky-cosmic-interval-cube
